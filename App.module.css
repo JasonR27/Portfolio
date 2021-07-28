@@ -112,6 +112,14 @@ root {
 
 }
 
+#arrowBackIcon {
+  font-size: 7rem;
+}
+
+#arrowButtons {
+  font-size: 5rem;
+}
+
 #titleProjectsButton {
   display: flex;
   flex-direction: row;
