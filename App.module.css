@@ -113,14 +113,11 @@ root {
 }
 
 #projectsArrowIcons {
-  font-size: 7rem;
-  color: green;
-  background-color: blue;
+    font-size: 7rem;    
 }
 
 #arrowButtons {
-  font-size: 5rem;
-  color: red;
+  font-size: 5rem;  
 }
 
 #titleProjectsButton {
