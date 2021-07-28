@@ -1,6 +1,6 @@
 /* Global Variables */
 
-#PrtflAppWrapper > * {
+* {
   font-family: 'Share Tech', sans-serif;
   margin: 0;
   padding: 0;
@@ -8,11 +8,11 @@
   box-sizing: border-box;
 }
 
-#PrtflAppWrapper > li {
+li {
   list-style: none;
 }
 
-#PrtflAppWrapper > a {
+a {
   text-decoration: none;
   color: white;
   font-weight: 555;
@@ -20,7 +20,7 @@
 
 /* Global Classes and ID's */
 
-#PrtflAppWrapper > html {
+html {
   font-size: 60%;
   box-sizing: border-box;
   background-color: gray;
@@ -33,7 +33,7 @@
   color: white; 
 }
 
-#PrtflAppWrapper > body {
+body {
   display: grid;
   justify-content: center;  
   align-items: center;      
@@ -45,22 +45,22 @@ root {
   align-items: center;
 }
 
-#PrtflAppWrapper > #name {
+#name {
   font-size: 2rem;
   font-weight: 900;
 }
 
-#PrtflAppWrapper > #Navbar {
+#Navbar {
   height: 5rem;
   font-size: 1.7rem;
 }
 
-#PrtflAppWrapper > #navbutton, #PrtflAppWrapper > #basic-nav-dropdown {
+#navbutton, #basic-nav-dropdown {
   margin-right: 3px;
   margin-left: 3px;
 }
 
-#PrtflAppWrapper > #welcome-section {
+#welcome-section {
   box-sizing: border-box;
   height: 100vh;
   background-color: #303030;
@@ -72,11 +72,11 @@ root {
   padding-left: -3rem;
 }
 
-#PrtflAppWrapper > #welcome-section h1 {
+#welcome-section h1 {
   font-size: 6.15rem;
 }
 
-#PrtflAppWrapper > #welcome-section p {
+#welcome-section p {
   color: #c94c4c;
   font-size: 3.5rem;
   font-style: italic;
@@ -87,22 +87,22 @@ root {
   background-color: #667292;
 }
 
-#PrtflAppWrapper > #arrowButtons { 
+#arrowButtons { 
   margin: 15px;
   padding: 15px;     
   background-color: transparent;
   width: 9rem;  
 }
 
-#PrtflAppWrapper > .btnsR:hover {
+.btnsR:hover {
   transform: translateX(10px);
 }
 
-#PrtflAppWrapper > .btnsL:hover {
+.btnsL:hover {
   transform: translateX(-10px);
 }
 
-#PrtflAppWrapper > #projects {
+#projects {
   display: flex;
   flex-direction: row;   
   background-color: #667292;
@@ -112,7 +112,7 @@ root {
 
 }
 
-#PrtflAppWrapper > #titleProjectsButton {
+#titleProjectsButton {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -124,7 +124,7 @@ root {
   width: 80%;
 }
 
-#PrtflAppWrapper > #titleProjecton {
+#titleProjecton {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -135,7 +135,7 @@ root {
   align-items: center;
 }
 
-#PrtflAppWrapper > #titleProjectsButton ul {
+#titleProjectsButton ul {
   width: 90%;
   height: 80%;
   display: grid;
@@ -144,22 +144,22 @@ root {
   justify-items: center;
 }
 
-#PrtflAppWrapper > #titleProjectsButton li {
+#titleProjectsButton li {
   left: 0;
 }
 
-#PrtflAppWrapper > .project-tile {
+.project-tile {
   width: 100%;
   height: 80%;
 }
 
-#PrtflAppWrapper > #project_imgs {
+#project_imgs {
   width: 100%;
   height: 85%;
   border-radius: 3px;
 }
 
-#PrtflAppWrapper > .project-tile p {
+.project-tile p {
   width: inherit;
   height: 15%;
   font-size: 1.5rem;
@@ -172,18 +172,18 @@ root {
   align-items: center;
 }
 
-#PrtflAppWrapper > #titleProjectsButton h3 {
+#titleProjectsButton h3 {
   font-size: 4rem;
   color: white;
   text-decoration: underline;    
 }
 
-#PrtflAppWrapper > #titleProjectsButton a {
+#titleProjectsButton a {
   height: inherit;
   width: inherit;
 }
 
-#PrtflAppWrapper > .project-tile p:hover:before {
+.project-tile p:hover:before {
   content: "< ";
 }
 
