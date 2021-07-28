@@ -112,8 +112,9 @@ root {
 
 }
 
-#projectsArrowIcons {
-    font-size: 7rem;    
+#pArrowIcons {
+    font-size: 7rem;  
+    background-color: green;  
 }
 
 #arrowButtons {
