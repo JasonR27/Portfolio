@@ -64,7 +64,7 @@ root {
   box-sizing: border-box;
   height: 100vh;
   background: url("https://miro.medium.com/max/1400/1*CpDidbInbG4Er_0j_hknFQ.jpeg");
-  background-repeat: no-repeat;
+  background-size: 100% 100%;
   width: inherit;
   text-align: center;
   justify-content: center;
