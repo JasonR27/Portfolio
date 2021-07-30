@@ -131,6 +131,7 @@ root {
 }
 
 #titleProjectsButton {
+  background-color: rgba(67, 66, 68, 0.5); 
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
