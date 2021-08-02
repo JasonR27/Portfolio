@@ -150,7 +150,7 @@ root {
 }
 
 .project-tile {
-    width: 75%;
+    width: 60%;
     height: 80%;
     border: 3px solid green;
     display: flex;
