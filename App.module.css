@@ -107,14 +107,12 @@ root {
   display: flex;
   flex-direction: row;     
   background: radial-gradient(
-    circle,
-    rgba(2, 0, 36, 1) 7%,
-    rgb(207, 207, 248) 27%,
-    rgb(23, 190, 126) 38%,
+    circle,        
+    rgb(23, 190, 126) 27%,
     rgb(20, 173, 58) 46%,
     rgb(142, 10, 168) 57%,
     rgb(21, 142, 179) 100%,
-    rgba(0, 212, 255, 1) 100%
+    rgba(0, 212, 255, 1) 13%
   );
   height: 200vh;  
   justify-content: center;
@@ -141,16 +139,6 @@ root {
   align-items: center;
   width: 80%;
 }
-/**
-#titleProjecton {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  text-align: center;  
-  height: 200vh;
-  justify-content: center;
-  align-items: center;
-}*/
 
 #titleProjectsButton ul {
   width: 90%;
@@ -166,12 +154,12 @@ root {
 }
 
 .project-tile {
-  width: 100%;
+  width: 80%;
   height: 80%;
 }
 
 #project_imgs {
-  width: 100%;
+  width: 80%;
   height: 85%;
   border-radius: 3px;
 }
