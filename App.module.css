@@ -65,7 +65,7 @@ root {
 #welcome-section {
     box-sizing: border-box;
     height: 100vh;
-    background: url("https://miro.medium.com/max/1400/1*CpDidbInbG4Er_0j_hknFQ.jpeg");
+    background: url("https://i.imgur.com/AQwimm3.gif");
     background-size: 100% 100%;
     width: inherit;
     text-align: center;
@@ -108,7 +108,7 @@ root {
 #projects {
     display: flex;
     flex-direction: row;
-    background: url ('https://i.imgur.com/AQwimm3.gif');
+    background: url("https://miro.medium.com/max/1400/1*CpDidbInbG4Er_0j_hknFQ.jpeg");
     height: 200vh;
     justify-content: center;
     align-items: center;
