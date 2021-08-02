@@ -156,6 +156,7 @@ root {
 .project-tile {
   width: 75%;
   height: 80%;
+  border: 3px solid green;
 }
 
 #project_imgs {
