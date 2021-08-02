@@ -109,6 +109,7 @@ root {
     display: flex;
     flex-direction: row;
     background: url("https://i.imgur.com/AQwimm3.gif");
+    background-repeat: repeat-x;
     background-size: cover;
     /**background: url("https://miro.medium.com/max/1400/1*CpDidbInbG4Er_0j_hknFQ.jpeg");*/
     height: 200vh;
