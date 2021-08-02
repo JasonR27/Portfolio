@@ -169,8 +169,8 @@ root {
   height: 15%;
   font-size: 1.5rem;
   background-color: gray;
-  margin-top: -2rem;
-  padding-top: -2rem;    
+  /**margin-top: -2rem;
+  padding-top: -2rem; */
 }
 
 #titleProjectsButton h3 {
