@@ -150,16 +150,16 @@ root {
 }
 
 #titleProjectsButton li {
-  left: 0;
+  /**left: 0;*/
 }
 
 .project-tile {
-  width: 80%;
+  width: 75%;
   height: 80%;
 }
 
 #project_imgs {
-  width: 80%;
+  width: inherit;
   height: 85%;
   border-radius: 3px;
 }
@@ -170,11 +170,7 @@ root {
   font-size: 1.5rem;
   background-color: gray;
   margin-top: -2rem;
-  padding-top: -2rem;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  padding-top: -2rem;    
 }
 
 #titleProjectsButton h3 {
