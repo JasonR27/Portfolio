@@ -132,7 +132,7 @@ root {
     height: 200vh;
     justify-content: center;
     align-items: center;
-    width: 80%;
+    width: 90%;
 }
 
 #titleProjectsButton ul {
@@ -140,7 +140,7 @@ root {
     height: 80%;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
-    grid-gap: 5rem;
+    grid-gap: 3rem;
     justify-items: center;
 }
 
