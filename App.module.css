@@ -139,7 +139,8 @@ body {
 }
 
 #titleProjectsButton li {
-    width: 100%
+    width: 100%;
+    border: 3px solid blue;
 }
 
 .project-tile {
