@@ -99,10 +99,17 @@ body {
     transform: translateX(-10px);
 }
 
+.underContruction {
+    background-color: url ("../src/images/image\(1\)");
+}
+
 #projects {
     display: flex;
     flex-direction: row;
-    background: url("https://i.imgur.com/AQwimm3.gif");
+    /**background: url("https://i.imgur.com/AQwimm3.gif");*/
+    background: url("../src/images/gifs/gif\(2\).gif");
+    background-origin: content-box;
+    background-repeat: space;
     /**background: url("https://miro.medium.com/max/1400/1*CpDidbInbG4Er_0j_hknFQ.jpeg");*/
     height: 200vh;
     justify-content: center;
