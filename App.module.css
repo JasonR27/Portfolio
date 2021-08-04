@@ -256,6 +256,13 @@ footer div {
     flex-direction: row;
 }
 
+#footerSign {
+    display: flex;
+    flex-direction: row;
+}
+
+
+ 
 @media (max-width: 750px) {
     footer {
         flex-direction: column;
