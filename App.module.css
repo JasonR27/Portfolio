@@ -136,8 +136,8 @@ body {
 }
 
 #titleProjectsButton ul {
-  width: 90%;
-  height: 80%;
+  width: 80%;
+  height: 70%;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
   grid-gap: 3rem;
